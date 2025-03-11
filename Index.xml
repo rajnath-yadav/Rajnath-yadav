@@ -1,0 +1,70 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>prathamprasoon.com</title>
+<link>https://www.prathamprasoon.com/</link>
+<description>Recent content on prathamprasoon.com</description>
+<image>
+<url>https://www.prathamprasoon.com/cover-image.png</url>
+<link>https://www.prathamprasoon.com/cover-image.png</link>
+</image>
+<generator>Hugo -- gohugo.io</generator>
+<lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
+<atom:link href="https://www.prathamprasoon.com/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why I am learning Rust </title>
+<link>https://www.prathamprasoon.com/posts/why-i-am-learning-rust/</link>
+<pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/why-i-am-learning-rust/</guid>
+<description>A Pythonista decides to learn the most loved programming language of 2023.</description>
+</item>
+<item>
+<title>Why is a Rubik's cube so hard to solve?</title>
+<link>https://www.prathamprasoon.com/posts/math-behind-the-rubiks-cube/</link>
+<pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/math-behind-the-rubiks-cube/</guid>
+</item>
+<item>
+<title>ETL Paralellization: A way to train your machine learning models faster</title>
+<link>https://www.prathamprasoon.com/posts/etl-optimization-in-ml-models/</link>
+<pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/etl-optimization-in-ml-models/</guid>
+<description>Exploring a simple technique to make your machine learning pipeline more efficient.</description>
+</item>
+<item>
+<title>The anatomy of a blockchain</title>
+<link>https://www.prathamprasoon.com/posts/anatomy-of-a-blockchain/</link>
+<pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/anatomy-of-a-blockchain/</guid>
+<description>Learn how a blockchain works from the ground up.</description>
+</item>
+<item>
+<title>Non Fungible Tokens Explained</title>
+<link>https://www.prathamprasoon.com/posts/non-fungible-tokens-explained/</link>
+<pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/non-fungible-tokens-explained/</guid>
+<description>A practical explanation about non fungible tokens</description>
+</item>
+<item>
+<title>Why is 0!=1? </title>
+<link>https://www.prathamprasoon.com/posts/why-0-is-1/</link>
+<pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/why-0-is-1/</guid>
+<description>Understand the logic behind why 0 factorial equals 1.</description>
+</item>
+<item>
+<title>Neural networks that make your video games run better</title>
+<link>https://www.prathamprasoon.com/posts/deep-learning-to-enhance-video-games/</link>
+<pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/deep-learning-to-enhance-video-games/</guid>
+<description>State of the art neural networks that enchance the visual quality of video games.</description>
+</item>
+<item>
+<title>A simple introduction on how GANs work</title>
+<link>https://www.prathamprasoon.com/posts/how-gans-work/</link>
+<pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+<guid>https://www.prathamprasoon.com/posts/how-gans-work/</guid>
+<description>Exploring a unique deep learning technique.</description>
+</item>
+</channel>
+</rss>
